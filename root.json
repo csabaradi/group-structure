@@ -10,7 +10,12 @@
           "name": "DCI-Integrated Comms&Planning",
           "description": "DCI-Integrated Comms&Planning",
           "children": [
-
+          ]
+        },
+        {
+          "name": "DCI-Integrated Development&Operations",
+          "description": "DCI-Integrated Development&Operations",
+          "children": [
           ]
         }
       ]
