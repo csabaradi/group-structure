@@ -6,7 +6,13 @@
       "name": "DCI",
       "description": "Marketing department",
       "children": [
+        {
+          "name": "DCI-Integrated Comms&Planning",
+          "description": "DCI-Integrated Comms&Planning",
+          "children": [
 
+          ]
+        }
       ]
     },
     {
