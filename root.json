@@ -17,6 +17,12 @@
           "description": "DCI-Integrated Development&Operations",
           "children": [
           ]
+        },
+        {
+          "name": "DCI-CRM&Insights",
+          "description": "DCI-CRM&Insights",
+          "children": [
+          ]
         }
       ]
     },
