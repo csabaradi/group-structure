@@ -1,0 +1,20 @@
+{
+  "name": "Root",
+  "description": "Root of the group structure",
+  "children": [
+    {
+      "name": "DCI",
+      "description": "Marketing department",
+      "children": [
+
+      ]
+    },
+    {
+      "name": "DCI-External",
+      "description": "Everithyng else",
+      "children": [
+
+      ]
+    }
+  ]
+}
